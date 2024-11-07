@@ -1,0 +1,35 @@
+ <footer>
+        <div class="boxs">
+            <h2>Início</h2>
+                <ul>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#">produtos</a></li>
+                    <li><a href="#">download</a></li>
+                </ul>
+            
+        </div>  
+        <div class="boxs">
+            <h2>Informações</h2>
+                <ul>
+                    <li><a href="#">blog</a></li>
+                    <li><a href="#">contato</a></li>
+                    <li><a href="#">E-mail</a></li>
+                </ul>
+            
+        </div>
+        <div class="boxs">
+            <h2>suporte</h2>
+                <ul>
+                    <li><a href="#">FAC</a></li>
+                    <li><a href="#">telefone</a></li>
+                    <li><a href="#">chat</a></li>
+                </ul>
+            
+        </div>
+        <div class="boxs">
+            <h2>sobre nós</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita quibusdam fugit sapiente explicabo doloremque ex ad. Tempora libero odio aliquam odit nobis accusamus molestiae, quod officia sed mollitia deleniti non!</p>
+        </div>
+
+
+    </footer>
